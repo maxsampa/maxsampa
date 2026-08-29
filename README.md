@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f2027,100:00382b&height=210&section=header&text=Fabio%20Ribeiro&fontSize=46&fontColor=00FF9C&fontAlignY=38&animation=fadeIn&desc=AI%20Engineer%20%C2%B7%20Applied%20AI%20%26%20Automation&descAlignY=58&descSize=18&descColor=E5E5E5" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f2027,100:00382b&height=210&section=header&text=Fabio%20Ribeiro&fontSize=46&fontColor=00FF9C&fontAlignY=38&animation=fadeIn&desc=AI%20Engineer%20%C2%B7%20Applied%20AI%20%C2%B7%20Automation&descAlignY=58&descSize=18&descColor=E5E5E5" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&width=650&lines=Building+practical+AI+tools;Text%2C+speech%2C+and+a+bit+of+automation;Always+shipping+something;This+is+the+way." alt="Typing SVG" />
 
