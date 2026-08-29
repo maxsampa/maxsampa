@@ -14,6 +14,7 @@ Brazilian developer building practical **AI-powered tools** — from an AI-assis
 
 - 🔭 Currently building AI-powered products
 - 🌱 Learning: generative AI agents, applied NLP
+- 🖤 A soft spot for stories about machines getting smart
 
 ## 🛠️ Stack
 
