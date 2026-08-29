@@ -27,4 +27,7 @@
   <text x="455.0" y="75.0" fill="#8fe0c2" filter="url(#glow)">FABIO</text>
   <text x="450.0" y="70.0" fill="#d9fff0">FABIO</text>
 </g>
+<g text-anchor="middle" font-family="monospace" font-weight="500" font-size="15" letter-spacing="2">
+  <text x="450.0" y="102.0" fill="#8fe0c2" opacity="0.85">AI Engineer &#183; Applied AI &#183; Automation</text>
+</g>
 </svg>
