@@ -1,49 +1,68 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/maxsampa/maxsampa/main/assets/matrix-rain.svg?v=70c9e30" width="100%"/>
+# Fabio Ribeiro
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&width=650&lines=Building+practical+AI+tools;Text%2C+speech%2C+and+a+bit+of+automation;Always+shipping+something;This+is+the+way." alt="Typing SVG" />
+<strong>AI Engineer · Applied AI & Automation</strong>
 
-</div>
+I build practical AI systems and reliable automations that turn complex information into useful workflows.
 
-## 🧠 About
+`Applied AI` · `Data & Research Pipelines` · `Workflow Automation`
 
-Brazilian developer building practical **AI-powered tools** — from an AI-assisted translation app to an audio-processing pipeline for speech recognition. Always experimenting with new models and ways to automate repetitive work.
-
-- 🔭 Currently building AI-powered products
-- 🌱 Learning: generative AI agents, applied NLP
-- 🖤 A soft spot for stories about machines getting smart
-
-## 🛠️ Stack
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF9C)
-![Streamlit](https://img.shields.io/badge/Streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=00FF9C)
-![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=00FF9C)
-![Hugging Face](https://img.shields.io/badge/Transformers-000000?style=for-the-badge&logo=huggingface&logoColor=00FF9C)
-![Jupyter](https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=00FF9C)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-000000?style=for-the-badge&logo=githubactions&logoColor=00FF9C)
+📍 Brazil
 
 </div>
 
-## 🚀 Featured projects
+## About
 
-**[TradutorIA](https://github.com/maxsampa/TradutorIA)** — app web que refina texto em português com o modelo BLOOM antes de traduzir (EN/ES/FR) via Google Translate.
-![Python](https://img.shields.io/github/languages/top/maxsampa/TradutorIA?style=flat-square&color=0d1117&labelColor=000000) ![stars](https://img.shields.io/github/stars/maxsampa/TradutorIA?style=flat-square&color=0d1117&labelColor=000000)
+I am an AI engineer focused on taking ideas beyond the prototype stage. My work combines language models, data pipelines, APIs and automation to collect information, reduce manual effort and deliver clear, actionable outputs.
 
-**[asr-pipeline](https://github.com/maxsampa/asr-pipeline)** — pipeline de pré-processamento de áudio (denoise, normalização) para reconhecimento automático de fala.
-![Python](https://img.shields.io/github/languages/top/maxsampa/asr-pipeline?style=flat-square&color=0d1117&labelColor=000000) ![stars](https://img.shields.io/github/stars/maxsampa/asr-pipeline?style=flat-square&color=0d1117&labelColor=000000)
+I am especially interested in systems that are useful in the real world: scheduled workflows, research and monitoring tools, NLP applications and reliable AI-assisted products.
 
-## 📊 GitHub stats
+## What I build
 
-<div align="center">
+- AI-assisted applications for text, speech and structured information
+- Automated research, monitoring and reporting pipelines
+- Data collection and integration across APIs and public sources
+- NLP and speech-processing experiments
+- Scheduled workflows with persistent history and fault isolation
 
-![Followers](https://img.shields.io/github/followers/maxsampa?style=for-the-badge&color=0d1117&labelColor=000000&logoColor=00FF9C)
-![Public repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/maxsampa&label=Public%20Repos&query=%24.public_repos&style=for-the-badge&color=0d1117&labelColor=000000)
+## Selected work
 
-<img src="https://streak-stats.demolab.com/?user=maxsampa&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" />
+### [TradutorIA](https://github.com/maxsampa/TradutorIA)
 
-</div>
+An academic web application that uses BLOOM to refine Portuguese text before translating it into English, Spanish or French with Google Translate.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00382b,50:0f2027,100:000000&height=100&section=footer" width="100%"/>
+`Python` `Streamlit` `Transformers` `PyTorch` `Google Translate`
+
+### [Speech Processing Lab](https://github.com/maxsampa/asr-pipeline)
+
+Experiments in audio preprocessing, feature extraction and automatic speech recognition using Librosa, Wav2Vec2 and Whisper.
+
+`Python` `Librosa` `Transformers` `PyTorch`
+
+### Private production work
+
+Built an automated intelligence and reporting pipeline with Python, APIs, persistent history and optional AI-assisted analysis; client and domain details are confidential.
+
+## Technical toolkit
+
+| Area | Tools |
+| --- | --- |
+| AI & NLP | OpenAI, Transformers, Hugging Face, PyTorch |
+| Data & automation | Python, APIs, Pandas, SQLite |
+| Applications | Streamlit |
+| Delivery | GitHub Actions, Excel and email automation |
+
+## Learning & experimentation
+
+I keep exploring generative AI, agentic workflows, natural-language processing and speech recognition through courses, labs and open-source study repositories.
+
+## Currently
+
+- Building applied AI and automation projects
+- Improving the reliability and usefulness of AI-powered workflows
+- Learning more about agents, evaluation and production AI systems
+
+## Contact
+
+Open to collaborating on applied AI, intelligent automation and data-driven products. The best way to connect is through GitHub.
