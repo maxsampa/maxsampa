@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/maxsampa/maxsampa/main/assets/matrix-rain.svg" width="100%" alt="Animated Matrix rain banner" />
-
 # Fabio Ribeiro
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&width=720&lines=AI+Engineer+%C2%B7+Applied+AI+%26+Automation;Building+practical+AI+systems;Turning+complex+information+into+useful+workflows" alt="Animated introduction: AI Engineer focused on applied AI, practical systems and useful automated workflows" />
+<strong>AI Engineer · Applied AI & Automation</strong>
 
 I build practical AI systems and reliable automations that turn complex information into useful workflows.
 

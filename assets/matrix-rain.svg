@@ -11,9 +11,6 @@
     50%      { opacity: 0.9; }
   }
   .word { animation: wordPulse 4s ease-in-out infinite; }
-  @media (prefers-reduced-motion: reduce) {
-    .col, .word { animation: none; }
-  }
 </style>
 <filter id="soft" x="-20%" y="-20%" width="140%" height="140%">
   <feGaussianBlur stdDeviation="0.5" />
