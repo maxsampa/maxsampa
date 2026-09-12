@@ -2,7 +2,7 @@
 
 # Fabio Ribeiro
 
-<strong>AI Engineer · Applied AI & Automation</strong>
+<strong>AI Software Engineer · Applied AI & Automation</strong>
 
 I build practical AI systems and reliable automations that turn complex information into useful workflows.
 
