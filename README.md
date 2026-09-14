@@ -65,4 +65,4 @@ I keep exploring generative AI, agentic workflows, natural-language processing a
 
 ## Contact
 
-Open to collaborating on applied AI, intelligent automation and data-driven products. The best way to connect is through GitHub.
+Open to collaborating on applied AI, intelligent automation and data-driven products. The best way to connect is through GitHub or [LinkedIn](https://www.linkedin.com/in/fabio-a-ribeiro/).
