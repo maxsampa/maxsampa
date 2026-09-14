@@ -14,7 +14,7 @@ I build practical AI systems and reliable automations that turn complex informat
 
 ## About
 
-I am an AI engineer focused on taking ideas beyond the prototype stage. My work combines language models, data pipelines, APIs and automation to collect information, reduce manual effort and deliver clear, actionable outputs.
+I am an AI engineer focused on taking ideas beyond the prototype stage. My work combines language models, data pipelines, APIs, AI agents and automation to collect information, reduce manual effort and deliver clear, actionable outputs.
 
 I am especially interested in systems that are useful in the real world: scheduled workflows, research and monitoring tools, NLP applications and reliable AI-assisted products.
 
