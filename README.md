@@ -1,16 +1,12 @@
-<div align="center">
-
 # Fabio Ribeiro
 
-<strong>Software AI Engineer · Applied AI & Automation</strong>
+**Software AI Engineer · Applied AI & Automation**
 
 I build practical AI systems and reliable automations that turn complex information into useful workflows.
 
 `Applied AI` · `Data & Research Pipelines` · `Workflow Automation`
 
-📍 Brazil
-
-</div>
+📍 São Paulo, Brazil
 
 ## About
 
@@ -18,51 +14,45 @@ I am an AI engineer focused on taking ideas beyond the prototype stage. My work 
 
 I am especially interested in systems that are useful in the real world: scheduled workflows, research and monitoring tools, NLP applications and reliable AI-assisted products.
 
-## What I build
-
-- AI-assisted applications for text, speech and structured information
-- Automated research, monitoring and reporting pipelines
-- Data collection and integration across APIs and public sources
-- NLP and speech-processing experiments
-- Scheduled workflows with persistent history and fault isolation
-
 ## Selected work
-
-### [TradutorIA](https://github.com/maxsampa/TradutorIA)
-
-An academic web application that uses BLOOM to refine Portuguese text before translating it into English, Spanish or French with Google Translate.
-
-`Python` `Streamlit` `Transformers` `PyTorch` `Google Translate`
 
 ### [Speech Processing Lab](https://github.com/maxsampa/asr-pipeline)
 
-Experiments in audio preprocessing, feature extraction and automatic speech recognition using Librosa, Wav2Vec2 and Whisper.
+Comparative study of automatic speech recognition models on Portuguese audio, with a documented evaluation protocol and measured error rates.
 
-`Python` `Librosa` `Transformers` `PyTorch`
+`Python` `Whisper` `Wav2Vec2` `Librosa` `Transformers`
 
-### Private production work
+### [TradutorIA](https://github.com/maxsampa/TradutorIA)
 
-Built an automated intelligence and reporting pipeline with Python, APIs, persistent history and optional AI-assisted analysis; client and domain details are confidential.
+Web application that uses BLOOM to refine Portuguese text before translating it into English, Spanish or French. Deployed and publicly accessible.
+
+`Python` `Streamlit` `Transformers` `PyTorch`
+
+### Production work (under NDA)
+
+Automated intelligence and reporting pipeline built with Python, external APIs and persistent history, running on a fixed schedule with fault isolation and optional AI-assisted analysis. Client and domain are confidential.
+
+<!-- PREENCHER: 2 ou 3 números anonimizados. Exemplos do formato:
+     "Processes ~N sources per run, weekly, unattended since <mês/ano>."
+     "Replaced a manual review step that previously took ~N hours per week."
+     Sem número, esta seção continua sendo uma afirmação sem prova. -->
 
 ## Technical toolkit
 
 | Area | Tools |
 | --- | --- |
-| AI & NLP | OpenAI, Transformers, Hugging Face, PyTorch |
+| LLMs & NLP | OpenAI API, Hugging Face Transformers, PyTorch |
 | Data & automation | Python, APIs, Pandas, SQLite |
-| Applications | Streamlit |
-| Delivery | GitHub Actions, Excel and email automation |
-
-## Learning & experimentation
-
-I keep exploring generative AI, agentic workflows, natural-language processing and speech recognition through courses, labs and open-source study repositories.
+| Delivery | GitHub Actions, Streamlit, scheduled pipelines |
 
 ## Currently
 
-- Building applied AI and automation projects
-- Improving the reliability and usefulness of AI-powered workflows
-- Learning more about agents, evaluation and production AI systems
+- Building applied AI and automation projects with measurable outputs
+- Working on evaluation harnesses for LLM and speech systems
+- Improving reliability, cost and latency of AI-powered workflows
 
 ## Contact
 
-Open to collaborating on applied AI, intelligent automation and data-driven products. The best way to connect is through GitHub or [LinkedIn](https://www.linkedin.com/in/fabio-a-ribeiro/).
+Open to collaborating on applied AI, intelligent automation and data-driven products.
+
+[LinkedIn](https://www.linkedin.com/in/fabio-a-ribeiro/) · <!-- PREENCHER: e-mail profissional -->
