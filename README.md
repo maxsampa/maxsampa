@@ -55,4 +55,4 @@ Automated intelligence and reporting pipeline built with Python, external APIs a
 
 Open to collaborating on applied AI, intelligent automation and data-driven products.
 
-[LinkedIn](https://www.linkedin.com/in/fabio-a-ribeiro/) · <!-- PREENCHER: e-mail profissional -->
+[LinkedIn](https://www.linkedin.com/in/fabio-a-ribeiro/) <!-- PREENCHER: e-mail profissional -->
