@@ -1,14 +1,14 @@
-# Fabio Ribeiro
+![Fabio Ribeiro — Matrix-inspired animated terminal banner](assets/matrix-banner.svg)
 
 **Software AI Engineer · Applied AI & Automation**
 
 I build practical AI systems and reliable automations that turn complex information into useful workflows.
 
-![Python](https://img.shields.io/badge/Python-334155?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-334155?style=flat&logo=pytorch&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-334155?style=flat&logo=huggingface&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-334155?style=flat&logo=streamlit&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-334155?style=flat&logo=githubactions&logoColor=white)
+![Python](https://img.shields.io/badge/Python-071A10?style=for-the-badge&logo=python&logoColor=4DF79B)
+![PyTorch](https://img.shields.io/badge/PyTorch-071A10?style=for-the-badge&logo=pytorch&logoColor=4DF79B)
+![Transformers](https://img.shields.io/badge/Transformers-071A10?style=for-the-badge&logo=huggingface&logoColor=4DF79B)
+![Streamlit](https://img.shields.io/badge/Streamlit-071A10?style=for-the-badge&logo=streamlit&logoColor=4DF79B)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-071A10?style=for-the-badge&logo=githubactions&logoColor=4DF79B)
 
 📍 São Paulo, Brazil
 
@@ -56,6 +56,6 @@ Open to collaborating on applied AI, intelligent automation and data-driven prod
 
 ---
 
-![External profile view counter](https://komarev.com/ghpvc/?username=maxsampa&style=flat&color=334155&label=Profile+views)
+![External profile view counter](https://komarev.com/ghpvc/?username=maxsampa&style=flat&color=167D46&label=Profile+views)
 
 <sub>External counter provided by Komarev; not a count of unique visitors or recruiter visits.</sub>
