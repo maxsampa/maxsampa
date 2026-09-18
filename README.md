@@ -16,7 +16,7 @@ I build practical AI systems and reliable automations that turn complex informat
 
 <p align="center">
   <img
-    src="assets/contribution-streak.svg"
+    src="assets/contribution-streak.svg?v=2"
     width="325"
     height="155"
     alt="maxsampa's contribution streak"
