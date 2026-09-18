@@ -11,7 +11,8 @@ account creation and generates `assets/contribution-streak.svg`.
   token, with no personal access token or private repository access required.
 - Failed or incomplete API responses leave the previous card intact.
 
-The workflow updates every six hours, on generator changes, or manually from
+The workflow updates daily at 06:23 America/Fortaleza (09:23 UTC), on generator
+changes, or manually from
 Actions. GitHub scheduling and contribution processing can delay updates.
 Generated commits are authored by github-actions[bot].
 

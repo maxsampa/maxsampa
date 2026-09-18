@@ -1,7 +1,7 @@
 name: Update contribution streak
 on:
   schedule:
-    - cron: '23 */6 * * *'
+    - cron: '23 9 * * *' # Daily at 06:23 in America/Fortaleza (UTC-3)
   workflow_dispatch:
   push:
     branches: [main]

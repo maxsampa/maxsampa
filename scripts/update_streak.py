@@ -79,7 +79,7 @@ def render(stats):
     parts = ['<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-labelledby="title desc">',
              '<title id="title">GitHub contribution streak</title>',
              f'<desc id="desc">{stats["total"]} contributions. Current streak: {current[0]} days. Longest streak: {longest[0]} days, {escape(date_range(*longest[1:]))}. Most recent streak wins ties.</desc>',
-             '<style>text{font-family:Segoe UI,Ubuntu,sans-serif;text-anchor:middle;fill:#fff}.label{font-size:14px;fill:#7fff00}.dates{font-size:10px;fill:#9e9e9e}.number{font-size:28px;font-weight:700}</style>',
+             '<style>text{font-family:Segoe UI,Ubuntu,sans-serif;text-anchor:middle;fill:#fff}.label{font-size:16px;fill:#7fff00}.dates{font-size:12px;fill:#9e9e9e}.number{font-size:28px;font-weight:700}</style>',
              '<path d="M165 40v115 M330 40v115" stroke="#333"/>',
              '<circle cx="247" cy="72" r="38" fill="none" stroke="#7fff00" stroke-width="3"/>']
     for x, value, label, dates in columns:
