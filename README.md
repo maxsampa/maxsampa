@@ -1,4 +1,4 @@
-![Fabio Ribeiro — Matrix-inspired animated terminal banner](assets/matrix-banner.svg)
+![Fabio Ribeiro — Matrix-inspired animated terminal banner](assets/matrix-banner.svg?v=3)
 
 **Software AI Engineer · Applied AI & Automation**
 
