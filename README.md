@@ -22,10 +22,10 @@ I build practical AI systems and reliable automations that turn complex informat
     alt="maxsampa's contribution streak"
   />
   <img
-    src="https://github-stats-extended.vercel.app/api?username=maxsampa&locale=en&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&commits_year=2026&bg_color=00000000&hide_border=true&custom_title=GitHub%20Stats%202026"
+    src="https://github-stats-extended.vercel.app/api?username=maxsampa&locale=en&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&commits_year=2026&bg_color=00000000&hide_border=true&custom_title=GitHub%20Stats"
     width="325"
     height="155"
-    alt="maxsampa's GitHub stats for 2026"
+    alt="maxsampa's GitHub stats"
   />
   <img
     src="https://github-stats-extended.vercel.app/api/top-langs?username=maxsampa&locale=en&layout=compact&card_width=325&theme=chartreuse-dark&langs_count=8&size_weight=0.5&count_weight=0.5&bg_color=00000000&hide_border=true&custom_title=Most%20Used%20Languages"
