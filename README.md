@@ -4,29 +4,32 @@
 
 I build practical AI systems and reliable automations that turn complex information into useful workflows.
 
-`Applied AI` · `Data & Research Pipelines` · `Workflow Automation`
+![Python](https://img.shields.io/badge/Python-334155?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-334155?style=flat&logo=pytorch&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-334155?style=flat&logo=huggingface&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-334155?style=flat&logo=streamlit&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-334155?style=flat&logo=githubactions&logoColor=white)
 
 📍 São Paulo, Brazil
 
-## About
-
-I am an AI engineer focused on taking ideas beyond the prototype stage. My work combines language models, data pipelines, APIs, AI agents and automation to collect information, reduce manual effort and deliver clear, actionable outputs.
-
-I am especially interested in systems that are useful in the real world: scheduled workflows, research and monitoring tools, NLP applications and reliable AI-assisted products.
-
 ## Selected work
-
-### [Speech Processing Lab](https://github.com/maxsampa/asr-pipeline)
-
-Comparative study of automatic speech recognition models on Portuguese audio, with a documented evaluation protocol and measured error rates.
-
-`Python` `Whisper` `Wav2Vec2` `Librosa` `Transformers`
 
 ### [TradutorIA](https://github.com/maxsampa/TradutorIA)
 
-Web application that uses BLOOM to refine Portuguese text before translating it into English, Spanish or French. Deployed and publicly accessible.
+Streamlit application that uses BLOOM 560M to refine Portuguese text before translating it into English, Spanish or French with googletrans.
 
 `Python` `Streamlit` `Transformers` `PyTorch`
+
+[View source](https://github.com/maxsampa/TradutorIA)
+· [Open app](https://tradutoria-bloom.streamlit.app/)
+
+### [Speech Processing Lab](https://github.com/maxsampa/asr-pipeline)
+
+Experiments in Portuguese audio preprocessing, feature extraction and transcription with Whisper. Includes a commented Wav2Vec2 implementation.
+
+`Python` `Librosa` `Whisper` `Transformers` `scikit-learn`
+
+[View source](https://github.com/maxsampa/asr-pipeline)
 
 ### Production work (under NDA)
 
@@ -45,14 +48,14 @@ Automated intelligence and reporting pipeline built with Python, external APIs a
 | Data & automation | Python, APIs, Pandas, SQLite |
 | Delivery | GitHub Actions, Streamlit, scheduled pipelines |
 
-## Currently
-
-- Building applied AI and automation projects with measurable outputs
-- Working on evaluation harnesses for LLM and speech systems
-- Improving reliability, cost and latency of AI-powered workflows
-
 ## Contact
 
 Open to collaborating on applied AI, intelligent automation and data-driven products.
 
 [LinkedIn](https://www.linkedin.com/in/fabio-a-ribeiro/) <!-- PREENCHER: e-mail profissional -->
+
+---
+
+![External profile view counter](https://komarev.com/ghpvc/?username=maxsampa&style=flat&color=334155&label=Profile+views)
+
+<sub>External counter provided by Komarev; not a count of unique visitors or recruiter visits.</sub>
