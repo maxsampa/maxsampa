@@ -12,26 +12,26 @@ I build practical AI systems and reliable automations that turn complex informat
 
 📍 São Paulo, Brazil
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Stats
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats-eight.vercel.app/?user=maxsampa&theme=chartreuse-dark&background=00000000&hide_border=true"
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=maxsampa&locale=en&theme=chartreuse-dark&background=00000000&hide_border=true"
     width="325"
     height="155"
-    alt="Sequência de contribuições de maxsampa"
+    alt="maxsampa's contribution streak"
   />
   <img
-    src="https://github-stats-extended.vercel.app/api?username=maxsampa&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&commits_year=2026&bg_color=00000000&hide_border=true&custom_title=Estat%C3%ADsticas%20de%202026"
+    src="https://github-stats-extended.vercel.app/api?username=maxsampa&locale=en&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&commits_year=2026&bg_color=00000000&hide_border=true&custom_title=GitHub%20Stats%202026"
     width="325"
     height="155"
-    alt="Estatísticas de maxsampa em 2026"
+    alt="maxsampa's GitHub stats for 2026"
   />
   <img
-    src="https://github-stats-extended.vercel.app/api/top-langs?username=maxsampa&layout=compact&card_width=325&theme=chartreuse-dark&langs_count=8&size_weight=0.5&count_weight=0.5&bg_color=00000000&hide_border=true&custom_title=Linguagens%20mais%20usadas"
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=maxsampa&locale=en&layout=compact&card_width=325&theme=chartreuse-dark&langs_count=8&size_weight=0.5&count_weight=0.5&bg_color=00000000&hide_border=true&custom_title=Most%20Used%20Languages"
     width="325"
     height="155"
-    alt="Linguagens mais usadas por maxsampa"
+    alt="maxsampa's most used languages"
   />
 </p>
 
