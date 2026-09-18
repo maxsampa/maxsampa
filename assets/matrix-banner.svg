@@ -37,14 +37,14 @@
     <rect width="1200" height="360" fill="url(#shade)"/>
     <path d="M0 47H1200" stroke="#163d28"/>
     <g fill="#3ce88c"><circle cx="28" cy="24" r="4"/><circle cx="45" cy="24" r="4" opacity=".5"/><circle cx="62" cy="24" r="4" opacity=".25"/></g>
-    <text x="88" y="31" fill="#7c9e88" font-family="monospace" font-size="21">maxsampa / portfolio</text>
-    <text x="58" y="101" fill="#4df79b" font-family="monospace" font-size="24" letter-spacing="3">&gt; BUILD. CONNECT. AUTOMATE.</text>
+    <text x="88" y="31" fill="#7c9e88" font-family="monospace" font-size="17">maxsampa / portfolio</text>
+    <text x="58" y="101" fill="#4df79b" font-family="monospace" font-size="20" letter-spacing="3">&gt; BUILD. CONNECT. AUTOMATE.</text>
     <text x="54" y="180" fill="#e4ffed" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="64" letter-spacing="-2">Fabio Ribeiro</text>
     <text x="58" y="224" fill="#a7cdb5" font-family="Arial, Helvetica, sans-serif" font-size="22">Software AI Engineer · Applied AI &amp; Automation</text>
     <path d="M58 254H580" stroke="#1d5536"/>
-    <text x="58" y="294" fill="#59f59d" font-family="monospace" font-size="25">&gt; maxsampa</text>
-    <rect class="cursor" x="221" y="271" width="14" height="27" fill="#59f59d"/>
-    <text x="58" y="334" fill="#638a71" font-family="monospace" font-size="22">APPLIED AI / DATA PIPELINES / AUTOMATION</text>
+    <text x="58" y="294" fill="#59f59d" font-family="monospace" font-size="21">&gt; maxsampa</text>
+    <rect class="cursor" x="197" y="275" width="12" height="23" fill="#59f59d"/>
+    <text x="58" y="334" fill="#638a71" font-family="monospace" font-size="18">APPLIED AI / DATA PIPELINES / AUTOMATION</text>
   </g>
   <rect x="1" y="1" width="1198" height="358" rx="18" fill="none" stroke="url(#edge)" stroke-width="2"/>
 </svg>

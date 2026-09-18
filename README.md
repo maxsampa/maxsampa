@@ -1,14 +1,14 @@
-![Fabio Ribeiro — Matrix-inspired animated terminal banner](assets/matrix-banner.svg?v=3)
+![Fabio Ribeiro — Matrix-inspired animated terminal banner](assets/matrix-banner.svg?v=5)
 
 **Software AI Engineer · Applied AI & Automation**
 
 I build practical AI systems and reliable automations that turn complex information into useful workflows.
 
-![Python](https://img.shields.io/badge/Python-071A10?style=for-the-badge&logo=python&logoColor=4DF79B)
-![PyTorch](https://img.shields.io/badge/PyTorch-071A10?style=for-the-badge&logo=pytorch&logoColor=4DF79B)
-![Transformers](https://img.shields.io/badge/Transformers-071A10?style=for-the-badge&logo=huggingface&logoColor=4DF79B)
-![Streamlit](https://img.shields.io/badge/Streamlit-071A10?style=for-the-badge&logo=streamlit&logoColor=4DF79B)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-071A10?style=for-the-badge&logo=githubactions&logoColor=4DF79B)
+[![Python](https://img.shields.io/badge/Python-071A10?style=for-the-badge&logo=python&logoColor=4DF79B)](https://www.python.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-071A10?style=for-the-badge&logo=pytorch&logoColor=4DF79B)](https://pytorch.org/)
+[![Transformers](https://img.shields.io/badge/Transformers-071A10?style=for-the-badge&logo=huggingface&logoColor=4DF79B)](https://huggingface.co/docs/transformers/index)
+[![Streamlit](https://img.shields.io/badge/Streamlit-071A10?style=for-the-badge&logo=streamlit&logoColor=4DF79B)](https://streamlit.io/)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-071A10?style=for-the-badge&logo=githubactions&logoColor=4DF79B)](https://docs.github.com/en/actions)
 
 📍 São Paulo, Brazil
 
@@ -52,10 +52,4 @@ Automated intelligence and reporting pipeline built with Python, external APIs a
 
 Open to collaborating on applied AI, intelligent automation and data-driven products.
 
-[LinkedIn](https://www.linkedin.com/in/fabio-a-ribeiro/) <!-- PREENCHER: e-mail profissional -->
-
----
-
-![External profile view counter](https://komarev.com/ghpvc/?username=maxsampa&style=flat&color=167D46&label=Profile+views)
-
-<sub>External counter provided by Komarev; not a count of unique visitors or recruiter visits.</sub>
+[![LinkedIn — Fabio Ribeiro](assets/linkedin-badge.svg)](https://www.linkedin.com/in/fabio-a-ribeiro/)
