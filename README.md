@@ -16,7 +16,7 @@ I build practical AI systems and reliable automations that turn complex informat
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats-eight.vercel.app/?user=maxsampa&locale=en&theme=chartreuse-dark&background=00000000&hide_border=true"
+    src="assets/contribution-streak.svg"
     width="325"
     height="155"
     alt="maxsampa's contribution streak"

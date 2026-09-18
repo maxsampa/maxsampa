@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-labelledby="title desc">
+<title id="title">GitHub contribution streak</title>
+<desc id="desc">71 contributions. Current streak: 1 days. Longest streak: 2 days, Feb 24, 2026 – Feb 25, 2026. Most recent streak wins ties.</desc>
+<style>text{font-family:Segoe UI,Ubuntu,sans-serif;text-anchor:middle;fill:#fff}.label{font-size:14px;fill:#7fff00}.dates{font-size:10px;fill:#9e9e9e}.number{font-size:28px;font-weight:700}</style>
+<path d="M165 40v115 M330 40v115" stroke="#333"/>
+<circle cx="247" cy="72" r="38" fill="none" stroke="#7fff00" stroke-width="3"/>
+<text x="82" y="82" class="number">71</text>
+<text x="82" y="133" class="label">Total Contributions</text>
+<text x="82" y="158" class="dates">Sep 27, 2023 – Present</text>
+<text x="247" y="82" class="number">1</text>
+<text x="247" y="133" class="label">Current Streak</text>
+<text x="247" y="158" class="dates">Sep 17, 2026</text>
+<text x="412" y="82" class="number">2</text>
+<text x="412" y="133" class="label">Longest Streak</text>
+<text x="412" y="158" class="dates">Feb 24, 2026 – Feb 25, 2026</text>
+</svg>
