@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-labelledby="title desc">
 <title id="title">GitHub contribution streak</title>
-<desc id="desc">71 contributions. Current streak: 1 days. Longest streak: 3 days, Feb 11, 2025 – Feb 13, 2025. Most recent streak wins ties.</desc>
+<desc id="desc">71 contributions. Current streak: 0 days. Longest streak: 3 days, Feb 11, 2025 – Feb 13, 2025. Most recent streak wins ties.</desc>
 <style>text{font-family:Segoe UI,Ubuntu,sans-serif;text-anchor:middle;fill:#fff}.label{font-size:18px;fill:#7fff00}.dates{font-size:14px;fill:#9e9e9e}.number{font-size:28px;font-weight:700}</style>
 <path d="M165 40v115 M330 40v115" stroke="#333"/>
 <circle cx="247" cy="72" r="38" fill="none" stroke="#7fff00" stroke-width="3"/>
@@ -8,9 +8,9 @@
 <text x="82" y="133" class="label">Total Contributions</text>
 <text x="82" y="156" class="dates">Sep 27, 2023</text>
 <text x="82" y="175" class="dates">Present</text>
-<text x="247" y="82" class="number">1</text>
+<text x="247" y="82" class="number">0</text>
 <text x="247" y="133" class="label">Current Streak</text>
-<text x="247" y="156" class="dates">Sep 17, 2026</text>
+<text x="247" y="156" class="dates">No contributions yet</text>
 <text x="412" y="82" class="number">3</text>
 <text x="412" y="133" class="label">Longest Streak</text>
 <text x="412" y="156" class="dates">Feb 11, 2025</text>
