@@ -9,6 +9,8 @@ I build practical AI systems and reliable automations that turn complex informat
 [![Transformers](https://img.shields.io/badge/Transformers-071A10?style=for-the-badge&logo=huggingface&logoColor=4DF79B)](https://huggingface.co/docs/transformers/index)
 [![Streamlit](https://img.shields.io/badge/Streamlit-071A10?style=for-the-badge&logo=streamlit&logoColor=4DF79B)](https://streamlit.io/)
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-071A10?style=for-the-badge&logo=githubactions&logoColor=4DF79B)](https://docs.github.com/en/actions)
+[![Android](https://img.shields.io/badge/Android-071A10?style=for-the-badge&logo=android&logoColor=4DF79B)](https://developer.android.com/)
+[![Kotlin](https://img.shields.io/badge/Kotlin-071A10?style=for-the-badge&logo=kotlin&logoColor=4DF79B)](https://kotlinlang.org/)
 
 📍 São Paulo, Brazil
 
@@ -54,6 +56,14 @@ Experiments in Portuguese audio preprocessing, feature extraction and transcript
 
 [View source](https://github.com/maxsampa/asr-pipeline)
 
+### Lembretes com carinho · Private Android project
+
+Native Android app for medication and medical-appointment reminders, designed for large, clear interactions. It combines local alarm delivery, lock-screen confirmation, configurable repeat behavior, offline fallback audio, and optional Gemini TTS voice preparation.
+
+`Kotlin` `Jetpack Compose` `Room` `Android alarms` `Gemini TTS`
+
+The source repository is private because it is maintained for family use. It contains no public patient data, credentials, or generated APKs.
+
 ### Production work (under NDA)
 
 Automated intelligence and reporting pipeline built with Python, external APIs and persistent history, running on a fixed schedule with fault isolation and optional AI-assisted analysis. Client and domain are confidential.
@@ -69,7 +79,7 @@ Automated intelligence and reporting pipeline built with Python, external APIs a
 | --- | --- |
 | LLMs & NLP | OpenAI API, Hugging Face Transformers, PyTorch |
 | Data & automation | Python, APIs, Pandas, SQLite |
-| Delivery | GitHub Actions, Streamlit, scheduled pipelines |
+| Mobile & delivery | Kotlin, Jetpack Compose, Room, GitHub Actions, Streamlit, scheduled pipelines |
 
 ## Contact
 
