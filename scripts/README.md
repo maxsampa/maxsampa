@@ -30,7 +30,9 @@ API. It reads repository metadata and byte counts, not source files. It scans
 all pages of the owner's repositories, including private and archived projects;
 forks and the profile repository itself are excluded. New repositories and
 languages are discovered automatically. Every language gets a label, and the
-card grows when more labels are needed.
+card grows when more labels are needed. The language card spans the combined
+650 px width of the two upper cards. Names and percentages share the same
+baseline in each of its two columns.
 
 Percentages represent each language's share of the total code bytes reported
 by GitHub, not proficiency or authorship. This replaces the previous hosted

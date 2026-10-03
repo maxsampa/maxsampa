@@ -80,30 +80,30 @@ def render(totals):
     total = sum(totals.values())
     rows = (len(totals) + 1) // 2
     # Each new language receives a label; the card grows instead of hiding entries.
-    height = max(155, 113 + rows * 22)
+    height = max(155, 101 + rows * 22)
     labels = [(name, count / total * 100) for name, count in totals.items()]
     description = ', '.join(f'{name}: {percent:.2f}%' for name, percent in labels)
-    parts = [f'<svg xmlns="http://www.w3.org/2000/svg" width="325" height="{height}" viewBox="0 0 325 {height}" role="img" aria-labelledby="title desc">',
+    parts = [f'<svg xmlns="http://www.w3.org/2000/svg" width="650" height="{height}" viewBox="0 0 650 {height}" role="img" aria-labelledby="title desc">',
              '<title id="title">Languages across public and private projects</title>',
              f'<desc id="desc">{escape(description)}. Share of code bytes reported by GitHub. Owned repositories only; forks and profile repository excluded.</desc>',
-             '<style>text{font-family:Segoe UI,Ubuntu,sans-serif;fill:#fff}.heading{font-size:18px;font-weight:600;fill:#7fff00}.language{font-size:11px}.note{font-size:10px;fill:#9e9e9e}</style>',
+             '<style>text{font-family:Segoe UI,Ubuntu,sans-serif;fill:#fff}.heading{font-size:18px;font-weight:600;fill:#7fff00}.language{font-size:12px}.percent{font-size:12px;fill:#9e9e9e}.note{font-size:10px;fill:#9e9e9e}</style>',
              '<text x="25" y="35" class="heading">Most Used Languages</text>',
-             '<defs><clipPath id="bar"><rect x="25" y="54" width="275" height="8" rx="4"/></clipPath></defs>',
+             '<defs><clipPath id="bar"><rect x="25" y="54" width="600" height="8" rx="4"/></clipPath></defs>',
              '<g clip-path="url(#bar)">']
     x = 25.0
     for name, percent in labels:
-        width = 275 * percent / 100
+        width = 600 * percent / 100
         color = COLORS.get(name, '#9e9e9e')
         parts.append(f'<rect x="{x:.4f}" y="54" width="{width:.4f}" height="8" fill="{color}"/>')
         x += width
     parts.append('</g>')
     for i, (name, percent) in enumerate(labels):
-        x, y = 25 + (i % 2) * 145, 84 + (i // 2) * 22
+        x, y = 25 + (i % 2) * 325, 84 + (i // 2) * 22
         display_percent = '<0.01%' if percent < .01 else f'{percent:.2f}%'
-        # Separate percentage and language columns to keep long names legible.
+        # Match each value's baseline to its language, leaving room for long names.
         parts.extend([f'<circle cx="{x + 4}" cy="{y - 4}" r="4" fill="{COLORS.get(name, "#9e9e9e")}"/>',
                       f'<text x="{x + 13}" y="{y}" class="language">{escape(name)}</text>',
-                      f'<text x="{x + 126}" y="{y + 12}" text-anchor="end" class="note">{escape(display_percent)}</text>'])
+                      f'<text x="{x + 275}" y="{y}" text-anchor="end" class="percent">{escape(display_percent)}</text>'])
     parts.append(f'<text x="25" y="{height - 13}" class="note">Public + private projects · share of code bytes</text>')
     return '\n'.join(parts + ['</svg>', ''])
 

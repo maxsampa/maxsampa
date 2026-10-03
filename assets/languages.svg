@@ -1,38 +1,38 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="325" height="201" viewBox="0 0 325 201" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="650" height="189" viewBox="0 0 650 189" role="img" aria-labelledby="title desc">
 <title id="title">Languages across public and private projects</title>
 <desc id="desc">Python: 68.65%, Kotlin: 27.01%, Jupyter Notebook: 2.14%, TypeScript: 1.83%, CSS: 0.22%, Shell: 0.12%, HTML: 0.03%. Share of code bytes reported by GitHub. Owned repositories only; forks and profile repository excluded.</desc>
-<style>text{font-family:Segoe UI,Ubuntu,sans-serif;fill:#fff}.heading{font-size:18px;font-weight:600;fill:#7fff00}.language{font-size:11px}.note{font-size:10px;fill:#9e9e9e}</style>
+<style>text{font-family:Segoe UI,Ubuntu,sans-serif;fill:#fff}.heading{font-size:18px;font-weight:600;fill:#7fff00}.language{font-size:12px}.percent{font-size:12px;fill:#9e9e9e}.note{font-size:10px;fill:#9e9e9e}</style>
 <text x="25" y="35" class="heading">Most Used Languages</text>
-<defs><clipPath id="bar"><rect x="25" y="54" width="275" height="8" rx="4"/></clipPath></defs>
+<defs><clipPath id="bar"><rect x="25" y="54" width="600" height="8" rx="4"/></clipPath></defs>
 <g clip-path="url(#bar)">
-<rect x="25.0000" y="54" width="188.7780" height="8" fill="#3572A5"/>
-<rect x="213.7780" y="54" width="74.2652" height="8" fill="#A97BFF"/>
-<rect x="288.0432" y="54" width="5.8719" height="8" fill="#DA5B0B"/>
-<rect x="293.9151" y="54" width="5.0459" height="8" fill="#3178c6"/>
-<rect x="298.9610" y="54" width="0.6037" height="8" fill="#663399"/>
-<rect x="299.5647" y="54" width="0.3414" height="8" fill="#89e051"/>
-<rect x="299.9061" y="54" width="0.0939" height="8" fill="#e34c26"/>
+<rect x="25.0000" y="54" width="411.8793" height="8" fill="#3572A5"/>
+<rect x="436.8793" y="54" width="162.0331" height="8" fill="#A97BFF"/>
+<rect x="598.9124" y="54" width="12.8115" height="8" fill="#DA5B0B"/>
+<rect x="611.7239" y="54" width="11.0092" height="8" fill="#3178c6"/>
+<rect x="622.7331" y="54" width="1.3173" height="8" fill="#663399"/>
+<rect x="624.0503" y="54" width="0.7449" height="8" fill="#89e051"/>
+<rect x="624.7952" y="54" width="0.2048" height="8" fill="#e34c26"/>
 </g>
 <circle cx="29" cy="80" r="4" fill="#3572A5"/>
 <text x="38" y="84" class="language">Python</text>
-<text x="151" y="96" text-anchor="end" class="note">68.65%</text>
-<circle cx="174" cy="80" r="4" fill="#A97BFF"/>
-<text x="183" y="84" class="language">Kotlin</text>
-<text x="296" y="96" text-anchor="end" class="note">27.01%</text>
+<text x="300" y="84" text-anchor="end" class="percent">68.65%</text>
+<circle cx="354" cy="80" r="4" fill="#A97BFF"/>
+<text x="363" y="84" class="language">Kotlin</text>
+<text x="625" y="84" text-anchor="end" class="percent">27.01%</text>
 <circle cx="29" cy="102" r="4" fill="#DA5B0B"/>
 <text x="38" y="106" class="language">Jupyter Notebook</text>
-<text x="151" y="118" text-anchor="end" class="note">2.14%</text>
-<circle cx="174" cy="102" r="4" fill="#3178c6"/>
-<text x="183" y="106" class="language">TypeScript</text>
-<text x="296" y="118" text-anchor="end" class="note">1.83%</text>
+<text x="300" y="106" text-anchor="end" class="percent">2.14%</text>
+<circle cx="354" cy="102" r="4" fill="#3178c6"/>
+<text x="363" y="106" class="language">TypeScript</text>
+<text x="625" y="106" text-anchor="end" class="percent">1.83%</text>
 <circle cx="29" cy="124" r="4" fill="#663399"/>
 <text x="38" y="128" class="language">CSS</text>
-<text x="151" y="140" text-anchor="end" class="note">0.22%</text>
-<circle cx="174" cy="124" r="4" fill="#89e051"/>
-<text x="183" y="128" class="language">Shell</text>
-<text x="296" y="140" text-anchor="end" class="note">0.12%</text>
+<text x="300" y="128" text-anchor="end" class="percent">0.22%</text>
+<circle cx="354" cy="124" r="4" fill="#89e051"/>
+<text x="363" y="128" class="language">Shell</text>
+<text x="625" y="128" text-anchor="end" class="percent">0.12%</text>
 <circle cx="29" cy="146" r="4" fill="#e34c26"/>
 <text x="38" y="150" class="language">HTML</text>
-<text x="151" y="162" text-anchor="end" class="note">0.03%</text>
-<text x="25" y="188" class="note">Public + private projects · share of code bytes</text>
+<text x="300" y="150" text-anchor="end" class="percent">0.03%</text>
+<text x="25" y="176" class="note">Public + private projects · share of code bytes</text>
 </svg>
