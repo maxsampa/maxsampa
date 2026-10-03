@@ -30,10 +30,9 @@ I build practical AI systems and reliable automations that turn complex informat
     alt="maxsampa's GitHub stats"
   />
   <img
-    src="https://github-stats-extended.vercel.app/api/top-langs?username=maxsampa&locale=en&layout=compact&card_width=325&theme=chartreuse-dark&langs_count=8&size_weight=0.5&count_weight=0.5&bg_color=00000000&hide_border=true&custom_title=Most%20Used%20Languages"
+    src="assets/languages.svg?v=1"
     width="325"
-    height="155"
-    alt="maxsampa's most used languages"
+    alt="Languages across maxsampa's public and private projects, measured by code bytes"
   />
 </p>
 

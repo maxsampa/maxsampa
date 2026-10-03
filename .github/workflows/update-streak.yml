@@ -12,7 +12,7 @@ on:
 permissions:
   contents: write
 concurrency:
-  group: contribution-streak
+  group: profile-statistics
   cancel-in-progress: false
 jobs:
   update:

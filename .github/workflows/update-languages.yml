@@ -1,0 +1,44 @@
+name: Update language statistics
+on:
+  schedule:
+    - cron: '37 9 * * *' # Daily at 06:37 in America/Fortaleza (UTC-3)
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - scripts/update_languages.py
+      - scripts/test_update_languages.py
+      - .github/workflows/update-languages.yml
+permissions:
+  contents: write
+concurrency:
+  group: profile-statistics
+  cancel-in-progress: false
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+      - name: Test language and streak calculations
+        run: python3 -m unittest discover -s scripts -p 'test_*.py'
+      - name: Generate aggregate public and private language card
+        env:
+          GH_TOKEN: ${{ secrets.PROFILE_STATS_TOKEN }}
+        run: |
+          if [ -z "$GH_TOKEN" ]; then
+            echo 'Configure PROFILE_STATS_TOKEN with read-only Metadata access. See scripts/README.md.' >&2
+            echo 'Daily language updates need the PROFILE_STATS_TOKEN repository secret. The published card was kept. See scripts/README.md for setup.' >> "$GITHUB_STEP_SUMMARY"
+            exit 1
+          fi
+          python3 scripts/update_languages.py
+      - name: Publish updated card
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets/languages.svg
+          if ! git diff --cached --quiet; then
+            git commit -m 'docs: refresh aggregate language statistics'
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
