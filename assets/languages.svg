@@ -1,25 +1,25 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="650" height="189" viewBox="0 0 650 189" role="img" aria-labelledby="title desc">
 <title id="title">Languages across public and private projects</title>
-<desc id="desc">Python: 60.58%, Kotlin: 29.40%, JavaScript: 6.19%, Jupyter Notebook: 1.84%, TypeScript: 1.58%, Shell: 0.20%, CSS: 0.19%, HTML: 0.03%. Share of code bytes reported by GitHub. Owned repositories only; forks and profile repository excluded.</desc>
+<desc id="desc">Python: 60.60%, Kotlin: 29.39%, JavaScript: 6.19%, Jupyter Notebook: 1.84%, TypeScript: 1.58%, Shell: 0.20%, CSS: 0.19%, HTML: 0.03%. Share of code bytes reported by GitHub. Owned repositories only; forks and profile repository excluded.</desc>
 <style>text{font-family:Segoe UI,Ubuntu,sans-serif;fill:#fff}.heading{font-size:18px;font-weight:600;fill:#7fff00}.language{font-size:12px}.percent{font-size:12px;fill:#9e9e9e}.note{font-size:10px;fill:#9e9e9e}</style>
 <text x="25" y="35" class="heading">Most Used Languages</text>
 <defs><clipPath id="bar"><rect x="25" y="54" width="600" height="8" rx="4"/></clipPath></defs>
 <g clip-path="url(#bar)">
-<rect x="25.0000" y="54" width="363.4562" height="8" fill="#3572A5"/>
-<rect x="388.4562" y="54" width="176.4010" height="8" fill="#A97BFF"/>
-<rect x="564.8572" y="54" width="37.1396" height="8" fill="#f1e05a"/>
-<rect x="601.9968" y="54" width="11.0186" height="8" fill="#DA5B0B"/>
-<rect x="613.0154" y="54" width="9.4685" height="8" fill="#3178c6"/>
-<rect x="622.4839" y="54" width="1.2071" height="8" fill="#89e051"/>
-<rect x="623.6909" y="54" width="1.1329" height="8" fill="#663399"/>
+<rect x="25.0000" y="54" width="363.5713" height="8" fill="#3572A5"/>
+<rect x="388.5713" y="54" width="176.3152" height="8" fill="#A97BFF"/>
+<rect x="564.8865" y="54" width="37.1215" height="8" fill="#f1e05a"/>
+<rect x="602.0080" y="54" width="11.0132" height="8" fill="#DA5B0B"/>
+<rect x="613.0212" y="54" width="9.4639" height="8" fill="#3178c6"/>
+<rect x="622.4851" y="54" width="1.2065" height="8" fill="#89e051"/>
+<rect x="623.6916" y="54" width="1.1324" height="8" fill="#663399"/>
 <rect x="624.8239" y="54" width="0.1761" height="8" fill="#e34c26"/>
 </g>
 <circle cx="29" cy="80" r="4" fill="#3572A5"/>
 <text x="38" y="84" class="language">Python</text>
-<text x="300" y="84" text-anchor="end" class="percent">60.58%</text>
+<text x="300" y="84" text-anchor="end" class="percent">60.60%</text>
 <circle cx="354" cy="80" r="4" fill="#A97BFF"/>
 <text x="363" y="84" class="language">Kotlin</text>
-<text x="625" y="84" text-anchor="end" class="percent">29.40%</text>
+<text x="625" y="84" text-anchor="end" class="percent">29.39%</text>
 <circle cx="29" cy="102" r="4" fill="#f1e05a"/>
 <text x="38" y="106" class="language">JavaScript</text>
 <text x="300" y="106" text-anchor="end" class="percent">6.19%</text>
